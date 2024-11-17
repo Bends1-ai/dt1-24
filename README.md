@@ -1,6 +1,7 @@
 This project implements a Flask application that serves as a proxy to interact with the Huggingface Inference API. The aim of the assignment is to demonstrate the integration of backend development, Docker containerization, Google Cloud deployment, and frontend no-code tools like Bubble or Retool.
 
 By completing this assignment, I learned how to build and deploy a backend system, integrate APIs, and create secure and user-friendly interfaces using modern technologies.
+[Uploading DT1 - Assigment 1 - Plan.docx…]()
 
 ---
 
