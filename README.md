@@ -191,3 +191,6 @@ This assignment demonstrates:
 *Efficient use of Docker for containerization and deployment.
 *Secure deployment on Google Cloud Platform.
 *Practical use of no-code tools like Bubble and Retool for user-friendly interfaces.
+
+Attached document 
+[Uploading DT1 - Assigment 1 - Plan.docx…]()
